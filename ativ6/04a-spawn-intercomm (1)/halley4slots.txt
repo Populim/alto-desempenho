@@ -1,0 +1,4 @@
+hal01 slots=4 max-slots=4
+hal02 slots=4
+hal03 slots=4
+hal04 slots=4

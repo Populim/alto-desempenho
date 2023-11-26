@@ -1,0 +1,10 @@
+hal10 slots=1
+hal09 slots=1
+hal08 slots=1
+hal07 slots=1
+hal06 slots=1
+hal05 slots=1
+hal04 slots=1
+hal03 slots=1
+hal02 slots=1
+hal01 slots=1
